@@ -2,7 +2,9 @@
 
 A macOS command line utility for upscaling images with various algorithms. Written in Swift and Metal Shading Language (MSL).
 
-<img src="" alt="Logo" width="512">
+<div align="center">
+<img src="https://raw.githubusercontent.com/zacheri04/MetalImageUpscaler/refs/heads/main/demo.png" alt="Logo" width="512">
+</div>
 
 ### Upscaling Interpolation Algorithms Included:
 
@@ -15,7 +17,7 @@ A macOS command line utility for upscaling images with various algorithms. Writt
 
 ## Installation Guide
 
-Release can be found [here]().
+Release can be found [here](https://github.com/zacheri04/MetalImageUpscaler/releases).
 
 Drag the `MetalImageUpscaler` binary and the `.metallib` file into `/usr/local/bin`.
 
